@@ -18,9 +18,6 @@
     "scale",
     "resize"
   ],
-  "peerDependencies": {
-    "react-native": ">=v0.14.2"
-  },
   "author": "Florian Rival <florianr@bamlab.fr> (http://bamlab.fr)",
   "license": "MIT",
   "bugs": {
